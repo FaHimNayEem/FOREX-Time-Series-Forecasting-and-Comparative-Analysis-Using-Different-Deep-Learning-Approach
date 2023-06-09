@@ -1,0 +1,2 @@
+# FOREX-Time-Series-Forecasting-and-Comparative-Analysis-Using-Different-Deep-Learning-Approach
+FOREX Time Series Forecasting and Comparative  Analysis Using Different Deep Learning Approach was my Final Year Thesis. Six major currency pair was used to predict the closing price in this research. Eight different Deep learning Standalone and Hybrid approach was used to predict and the result were compared among all the deep learning models. 
